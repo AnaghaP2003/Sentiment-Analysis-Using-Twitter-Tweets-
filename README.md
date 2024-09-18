@@ -1,6 +1,6 @@
-Sentiment Analysis of Political Tweets: Bag of Words vs. TF-IDF with Logistic Regression
+#Sentiment Analysis of Political Tweets: Bag of Words vs. TF-IDF with Logistic Regression
 
-Project Overview
+Project Overview:
 
 This project focuses on sentiment analysis of political tweets using two approaches for feature extraction: Bag of Words and TF-IDF (Term Frequency-Inverse Document Frequency). Both approaches are paired with Logistic Regression for classifying tweet sentiments as Positive, Neutral, or Negative. The dataset consists of labeled political tweets, making it an ideal case for supervised learning.
 
@@ -24,5 +24,6 @@ How to Get Started?
 - Run the Code: Use any Python environment, such as Jupyter Notebook or Google Colab, to run the sentiment analysis model.
   
 Comparative Study:
-Bag of Words: Provides a faster solution with moderate accuracy (74.20%), suitable for quick, baseline models.
-TF-IDF: Offers better accuracy (82.04%) due to capturing the relative importance of words, but with higher computational cost and longer training time.
+
+Bag of Words provides a faster solution with moderate accuracy (74.20%), suitable for quick, baseline models.
+TF-IDF offers better accuracy (82.04%) due to capturing the relative importance of words, but with higher computational cost and longer training time.

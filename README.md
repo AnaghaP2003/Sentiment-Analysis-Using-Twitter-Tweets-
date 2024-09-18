@@ -1,4 +1,4 @@
-#Sentiment Analysis of Political Tweets: Bag of Words vs. TF-IDF with Logistic Regression
+Sentiment Analysis of Political Tweets: Bag of Words vs. TF-IDF with Logistic Regression
 
 Project Overview:
 
